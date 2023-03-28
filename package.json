@@ -1,8 +1,7 @@
 {
-  "name": "matan-shaviro-app",
+  "name": "freshbnb-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://rad-cendol-0ee1dd.netlify.app/",
   "dependencies": {
     "@hookform/error-message": "0.0.4",
     "@material-ui/core": "^4.11.0",
