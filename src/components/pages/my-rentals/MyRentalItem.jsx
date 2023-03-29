@@ -54,7 +54,7 @@ const MyRentalItem = ({ rental, deleteMyRental }) => {
             <div className='browseItem__infoBottom'>
               <div className='browseItem__stars'>
                 <StarIcon className='browseItem__star' />
-                <p>
+                <p> 
                   <strong>
                     {rental.star} <span>(185)</span>
                   </strong>
